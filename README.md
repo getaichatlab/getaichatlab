@@ -74,7 +74,7 @@ Building something and not sure if a chatbot is the right answer? Ask me — I'l
 <br/>
 
 <div align="center">
-  <a href="https://t.me/B_tolibjn" target="_blank">
+  <a href="https://t.me/B_tolibjon" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
