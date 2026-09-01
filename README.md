@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/light.svg">
+  <img alt="Terminal Profile" src="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/light.svg">
+</picture>
 # Hi, I'm Tolibjon 👋
 
 **I build AI chatbots that answer customers 24/7 — so businesses stop losing leads at 2 AM.**
