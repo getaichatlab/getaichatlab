@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/light.svg">
-  <img alt="Tolibjon | Profile" src="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/light.svg?v=3">
+  <img alt="Tolibjon | Profile" src="https://raw.githubusercontent.com/getaichatlab/getaichatlab/main/dark.svg?v=3" width="100%">
 </picture>
 
 # Hi, I'm Tolibjon 👋
