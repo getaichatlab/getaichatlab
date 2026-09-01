@@ -351,19 +351,24 @@
       <line x1="560" y1="438" x2="820" y2="438" stroke="#64748B" stroke-width="1" stroke-dasharray="2,5" opacity="0.3" />
     </g>
     <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13">
-      <text x="430" y="469" fill="#64748B">Grid.GitHub:</text>
-      <text x="1120" y="469" fill="#E2E8F0" text-anchor="end" font-weight="500">github.com/getaichatlab</text>
+      <text x="430" y="469" fill="#64748B">Grid.Telegram:</text>
+      <text x="1120" y="469" fill="#E2E8F0" text-anchor="end" font-weight="500">@B_tolibjn</text>
       <line x1="560" y1="465" x2="820" y2="465" stroke="#64748B" stroke-width="1" stroke-dasharray="2,5" opacity="0.3" />
     </g>
     <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13">
-      <text x="430" y="496" fill="#64748B">Grid.Telegram:</text>
-      <text x="1120" y="496" fill="#E2E8F0" text-anchor="end" font-weight="500">@getaichatlab</text>
+      <text x="430" y="496" fill="#64748B">Grid.LinkedIn:</text>
+      <text x="1120" y="496" fill="#E2E8F0" text-anchor="end" font-weight="500">tolibjon2712</text>
       <line x1="560" y1="492" x2="820" y2="492" stroke="#64748B" stroke-width="1" stroke-dasharray="2,5" opacity="0.3" />
     </g>
     <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13">
-      <text x="430" y="523" fill="#64748B">Grid.Status:</text>
-      <text x="1120" y="523" fill="#E2E8F0" text-anchor="end" font-weight="500">Available for Projects</text>
+      <text x="430" y="523" fill="#64748B">Grid.Mail:</text>
+      <text x="1120" y="523" fill="#E2E8F0" text-anchor="end" font-weight="500">boydullayevtolibjon2001@gmail.com</text>
       <line x1="560" y1="519" x2="820" y2="519" stroke="#64748B" stroke-width="1" stroke-dasharray="2,5" opacity="0.3" />
+    </g>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13">
+      <text x="430" y="550" fill="#64748B">Grid.Status:</text>
+      <text x="1120" y="550" fill="#E2E8F0" text-anchor="end" font-weight="500">Available for Projects</text>
+      <line x1="560" y1="546" x2="820" y2="546" stroke="#64748B" stroke-width="1" stroke-dasharray="2,5" opacity="0.3" />
     </g>
 
 </svg>

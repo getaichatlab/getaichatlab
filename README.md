@@ -74,15 +74,15 @@ Building something and not sure if a chatbot is the right answer? Ask me — I'l
 <br/>
 
 <div align="center">
-  <a href="https://t.me/getaichatlab" target="_blank">
+  <a href="https://t.me/B_tolibjn" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=22D3EE&labelColor=0A101F" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/getaichatlab" target="_blank">
+  <a href="https://www.linkedin.com/in/tolibjon2712" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tolibjonboydullayev@gmail.com">
+  <a href="mailto:boydullayevtolibjon2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </div>
